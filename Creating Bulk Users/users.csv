@@ -1,0 +1,9 @@
+displayname;username;password;groups_name;path
+vault-admin;vault-admin;yourpassword;;"CN=Users,DC=yourdomain,DC=local"
+developer-!;developer-!;yourpassword;developers;"CN=Users,DC=yourdomain,DC=local"
+developer-2;developer-2;yourpassword;developers;"CN=Users,DC=yourdomain,DC=local"
+dbadmin-1;dbadmin-1;yourpassword;dbadmins;"CN=Users,DC=yourdomain,DC=local"
+dbadmin-2;dbadmin-2;yourpassword;dbadmins;"CN=Users,DC=yourdomain,DC=local"
+serviceaccount-1;serviceaccount-1;yourpassword;serviceaccounts;"CN=Users,DC=yourdomain,DC=local"
+serviceaccount-2;serviceaccount-2;yourpassword;serviceaccounts;"CN=Users,DC=yourdomain,DC=local"
+serviceaccount-3;serviceaccount-3;yourpassword;serviceaccounts;"CN=Users,DC=yourdomain,DC=local"

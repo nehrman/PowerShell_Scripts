@@ -1,0 +1,4 @@
+name;samaccountname;groupcategory;scope
+developers;developers;security;global
+dbadmins;dbadmins;security;global
+serviceaccounts;serviceaccounts;security;global
